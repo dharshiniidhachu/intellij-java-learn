@@ -1,0 +1,12 @@
+Input A,Input B,Action,Result
+45,25,Add,70
+854,452,Add,1306
+785,452,Sub,333
+879,5742,Multiply,5047218
+451,5442,Add,5893
+9875,8754,Sub,1121
+69,8,Multiply,552
+782,4,Divide,195
+754,9,Multiply,6786
+9752,2456,Sub,7296
+458725,50,Divide,9174
